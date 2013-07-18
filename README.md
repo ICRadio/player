@@ -1,4 +1,4 @@
-RadioPlayerPlugin
+plugins
 =================
 
-A plugin that let's website's publish the station's live feed
+Plugins that can be embedded on external websites
