@@ -12,7 +12,7 @@ e.g. <code>\<head></code>
 <code>\</head></code>
 
 2. Add the following code to the area of the website where the player will reside:
-<code><div id="icradio-live-plugin"></div></code>
+<code>\<div id="icradio-live-plugin">\</div></code>
 
 3. If you would like to customise the player create custom css based on the <code>/plugin.css</code> file.
 
