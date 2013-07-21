@@ -21,7 +21,7 @@ loadjscssfile("http://members.icradio.com/plugins/player/plugin.css", "css") //d
 
 $(function () {
 // To add source element for ogg
-$("#icradio-live-plugin").html("<audio controls=\"controls\"><source src=\"http:\/\/icecast.icradio.com:8000\/live-mp3-high\" type=\"audio\/mpeg\" />Sorry, your browser doesn't support HTML5 audio.</audio>")
+$("#icradio-live-plugin").html("<audio controls=\"controls\"><source src=\"http:\/\/icecast.icradio.com:8000\/live-mp3-high\" type=\"audio\/mpeg\" \/><source src=\"http:\/\/icecast.icradio.com:8000\/vorbis-low\" type=\"audio\/ogg; codecs=vorbis\" \/>Sorry, your browser doesn't support HTML5 audio.</audio>")
 
 
 });
