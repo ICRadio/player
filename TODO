@@ -1,4 +1,4 @@
-
+-- Attempt to add arbitrary css theme
 -- Add ogg support so the player can work in all browsers.
 -- Use following tutorial to create nicer controls: http://webdesign.tutsplus.com/tutorials/site-elements/create-a-customised-html5-audio-player/
 -- Interface with IC Radio nowplaying JSON feed to add live info to widget.
